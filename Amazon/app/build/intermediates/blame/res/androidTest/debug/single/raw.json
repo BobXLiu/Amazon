@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/res/merged/androidTest/debug/raw/error.wav",
+        "source": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/bundles/debug/res/raw/error.wav"
+    },
+    {
+        "merged": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/res/merged/androidTest/debug/raw/explore_begin.ogg",
+        "source": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/bundles/debug/res/raw/explore_begin.ogg"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/res/merged/androidTest/debug/raw/error.wav",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/bundles/debug/res/raw/error.wav"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/res/merged/androidTest/debug/raw/explore_end.ogg",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/bundles/debug/res/raw/explore_end.ogg"
+    },
+    {
+        "merged": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/res/merged/androidTest/debug/raw/explore_end.ogg",
+        "source": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/bundles/debug/res/raw/explore_end.ogg"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/res/merged/androidTest/debug/raw/explore_begin.ogg",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/bundles/debug/res/raw/explore_begin.ogg"
+    }
+]

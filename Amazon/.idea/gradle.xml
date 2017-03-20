@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AlexaAndroid" />
+            <option value="$PROJECT_DIR$/Amazon_AVS" />
+            <option value="$PROJECT_DIR$/RecorderLevelView" />
+            <option value="$PROJECT_DIR$/SampleLoginWithAmazonApp" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/test_amazon" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

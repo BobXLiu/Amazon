@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:3:5-53
+	android:versionName
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:5:5-32
+		INJECTED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml
+		INJECTED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:4:5-36
+		INJECTED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml
+		INJECTED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:8:2-76
+	android:name
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:8:19-73
+uses-sdk
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:10:5-12:41
+	android:targetSdkVersion
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:12:9-38
+	android:minSdkVersion
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:11:9-34
+application
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:14:5-45:19
+	android:label
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:16:9-49
+	android:theme
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:18:9-40
+activity#com.amazon.identity.auth.device.lwaapp.SampleLoginWithAmazonActivity
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:23:13-72
+	android:name
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:21:13-96
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:27:27-74
+activity#com.amazon.identity.auth.device.authorization.AuthorizationActivity
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:31:9-44:20
+	android:launchMode
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:35:13-44
+	android:allowTaskReparenting
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:34:13-48
+	android:theme
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:33:13-59
+	android:name
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:32:13-95
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:36:13-43:29
+action#android.intent.action.VIEW
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:37:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:39:27-75
+data
+ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:40:17-42:45
+	android:host
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:41:21-74
+	android:scheme
+		ADDED from /home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/AndroidManifest.xml:42:21-42

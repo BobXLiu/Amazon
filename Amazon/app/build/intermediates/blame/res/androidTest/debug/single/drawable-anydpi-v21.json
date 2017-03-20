@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_voice_search_api_material.xml",
+        "source": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/ic_voice_search_api_material.xml",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/bundles/debug/res/drawable-anydpi-v21/ic_voice_search_api_material.xml"
+    }
+]

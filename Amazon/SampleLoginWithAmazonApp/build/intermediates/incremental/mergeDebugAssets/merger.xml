@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/assets"><file name="api_key.txt" path="/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/assets/api_key.txt"/></source><source path="/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/build-types/debug/assets"/></dataSet></merger>

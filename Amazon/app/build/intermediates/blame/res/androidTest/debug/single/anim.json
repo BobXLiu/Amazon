@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/res/merged/androidTest/debug/anim/fade_inout_inf.xml",
+        "source": "/home/bob/Desktop/Document/TeddyBear/AVS/Temp/AlexaAndroid-master/libs/speechutils-master/app/build/intermediates/bundles/debug/res/anim/fade_inout_inf.xml"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/res/merged/androidTest/debug/anim/fade_inout_inf.xml",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/app/build/intermediates/bundles/debug/res/anim/fade_inout_inf.xml"
+    }
+]

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Amazon</string>
+    <string name="btn_press_to_start_record">Press To Start Record</string>
+    <string name="btn_release_to_stop_record">Release To Stop Record</string>
+    <string name="btn_paly_record">Play Record</string>
+</resources>

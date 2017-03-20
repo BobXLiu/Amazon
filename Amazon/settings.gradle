@@ -1,0 +1,1 @@
+include ':SampleLoginWithAmazonApp', ':test_amazon', ':Amazon_AVS', ':AlexaAndroid', ':RecorderLevelView', ':app'

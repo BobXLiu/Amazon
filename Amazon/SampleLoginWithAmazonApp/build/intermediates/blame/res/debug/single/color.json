@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/build/intermediates/res/merged/debug/color/logout_text_color_state.xml",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/color/logout_text_color_state.xml"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/build/intermediates/res/merged/debug/color/login_button_image_state.xml",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/color/login_button_image_state.xml"
+    }
+]

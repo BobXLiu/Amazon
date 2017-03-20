@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/activity_main"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.android.test.amazon.avs.MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnLogin"
+        android:textAllCaps="false"
+        android:visibility="gone"
+        android:text="Login"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnRefreshToken"
+        android:textAllCaps="false"
+        android:visibility="visible"
+        android:text="Refresh Token"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnConnect"
+        android:textAllCaps="false"
+        android:visibility="gone"
+        android:text="Connect"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnPing"
+        android:visibility="gone"
+        android:textAllCaps="false"
+        android:text="Ping"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnSend"
+        android:visibility="visible"
+        android:textAllCaps="false"
+        android:text="Send Audio"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnSendText"
+        android:visibility="visible"
+        android:textAllCaps="false"
+        android:text="Send Text"/>
+
+
+    <TextView
+        android:id="@+id/information"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical"
+        />
+
+    <Button
+        android:id="@+id/send_live"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Live"
+        android:textSize="25sp"
+        android:textAllCaps="false"/>
+</LinearLayout>

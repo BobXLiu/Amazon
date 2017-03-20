@@ -1,0 +1,239 @@
+[
+    {
+        "outputFile": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 38,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 38,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 40,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 94,
+                        "endColumn": 40,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 65,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 62,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 200,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 264,
+                        "endColumn": 197,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 113,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 462,
+                        "endColumn": 110,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 63,
+                    "endOffset": 614
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 164,
+                        "endColumn": 60,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 619,
+                    "endColumn": 41,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 225,
+                        "endColumn": 38,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 50,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 116,
+                        "endColumn": 47,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 55,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 573,
+                        "endColumn": 52,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

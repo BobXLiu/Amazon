@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btnlwa_launcher.png",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/drawable-xhdpi/btnlwa_launcher.png"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btnlwa_gold_loginwithamazon.png",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/drawable-xhdpi/btnlwa_gold_loginwithamazon.png"
+    },
+    {
+        "merged": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btnlwa_gold_loginwithamazon_pressed.png",
+        "source": "/home/bob/AndroidStudioProjects/Amazon/SampleLoginWithAmazonApp/res/drawable-xhdpi/btnlwa_gold_loginwithamazon_pressed.png"
+    }
+]
